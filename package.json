@@ -1,5 +1,5 @@
 {
-  "name": "@dejames-13/mern-dashboard",
+  "name": "@dejames-13/dej-mern-starter",
   "version": "1.0.0",
   "scripts": {
     "start": "echo \"Start Something\" && exit 1",
