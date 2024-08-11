@@ -1,5 +1,5 @@
 {
-  "name": "@dejames-13/dej-dashboard",
+  "name": "@dejames-13/dej-react-starter",
   "version": "0.0.1",
   "description": "A starter template for React projects, for personal use only",
   "type": "module",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deJames-13/mern-dashboard.git"
+    "url": "git+https://github.com/deJames-13/dej-react-starter.git"
   },
   "keywords": [
     "react",
@@ -45,7 +45,7 @@
   "license": "MIT",
   "main": "postcss.config.js",
   "bugs": {
-    "url": "https://github.com/deJames-13/mern-dashboard/issues"
+    "url": "https://github.com/deJames-13/dej-react-starter/issues"
   },
-  "homepage": "https://github.com/deJames-13/mern-dashboard#readme"
+  "homepage": "https://github.com/deJames-13/dej-react-starter#readme"
 }
