@@ -1,0 +1,17 @@
+{
+  "name": "@dejames-13/mern-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo \"Start Something\" && exit 1",
+    "server": "npm run server --prefix server",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
