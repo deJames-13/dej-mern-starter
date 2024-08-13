@@ -4,8 +4,8 @@
   "scripts": {
     "install-server": "npm install --prefix server",
     "install-client": "npm install --prefix client",
-    "server": "npm run server --prefix server",
-    "client": "npm run dev --prefix client",
+    "server": "npm run server --prefix server --loglevel=warn",
+    "client": "npm run dev --prefix client --loglevel=warn",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
